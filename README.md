@@ -20,9 +20,9 @@
 
 
 ## 运行方式
-> 下载邮件:com.common.email.download.EmailSyncTest
-> 发送邮件:com.common.email.send.DerictEmailTest
-> 如果用代理方式发送邮件 请设置代理
+ 1. 下载邮件:com.common.email.download.EmailSyncTest
+ 2. 发送邮件:com.common.email.send.DerictEmailTest
+ 3. 如果用代理方式发送邮件 请设置代理
 
 ## Email收发POP3/IMAP/SMTP常用端口
 
