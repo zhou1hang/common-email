@@ -18,6 +18,12 @@
  5. 支持解析附件内容
  6. 分布式锁(锁账户)
 
+
+## 运行方式
+> 下载邮件:com.common.email.download.EmailSyncTest
+> 发送邮件:com.common.email.send.DerictEmailTest
+> 如果用代理方式发送邮件 请设置代理
+
 ## Email收发POP3/IMAP/SMTP常用端口
 
   1. POP3： 默认端口为：110 （如勾选ssl安全链接，端口号为995）
