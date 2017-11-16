@@ -1,0 +1,27 @@
+<html>
+<head>
+    <style type="text/css">
+
+        th {
+            background: #0d93fb;
+            color: #fff;
+            border: 0 none;
+            padding: 5px 10px;
+            line-height: 24px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+<div style="font-family: verdana, microsoft yahei; width: 100%; padding-left: 10px;">
+    <table style=" border: 1px solid #0d93fb;margin: 10px 0;width: 100%;border-collapse: collapse;">
+        #foreach($vo in ${list})
+            <tr>
+                <td>$vo</td>
+            </tr>
+        #end
+    </table>
+</div>
+</body>
+</html>
+
